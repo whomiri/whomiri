@@ -27,7 +27,7 @@ M | A
         <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whomiri&theme=radical&layout=compact" /></td>
     </tr>
     <tr>
-        <td align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=7zlvw7ozvnxn6z7jj0dgingr5&cover_image=true&theme=default)" /></td>
+        <td align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=7zlvw7ozvnxn6z7jj0dgingr5&cover_image=false&theme=default)" /></td>
     </tr>
 </table>
 
