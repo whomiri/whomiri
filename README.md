@@ -1,5 +1,5 @@
 ## Welcome to My gitHub! 👋 
-<h2 align="center">Hi 🥰 I'm <br>WhoMiri</h1>
+<h2 align="center">Hi I'm <br>WhoMiri</h1>
 <h4 align="center">I am a simple developer.</h3>
 ##
 
