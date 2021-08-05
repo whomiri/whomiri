@@ -3,10 +3,6 @@
 <h4 align="center">I am a simple developer.</h3>
 ##
 
-<p align="center">
-  <a href="https://github.com/whomiri">
-    <img src="https://komarev.com/ghpvc/?username=whomiri&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
-
   </a>
   <a href="https://github.com/whomiri?tab=stars">
     <img src="https://img.shields.io/github/stars/whomiri?color=ff69b4&label=Stargazers&style=plastic">
