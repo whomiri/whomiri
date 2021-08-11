@@ -1,118 +1,40 @@
-## Welcome to My gitHub! 👋 
-<h2 align="center">Hi I'm <br>WhoMiri</h1>
-<h4 align="center">I am a simple developer.</h3>
-##
 
+<samp>
+  <h1 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Salam mən Miri 🕊</h1>
 
-<div class="tenor-gif-embed" data-postid="13971147" data-share-method="host" data-aspect-ratio="1.90184" data-width="100%"><a href="https://tenor.com/view/yes-signature-cursive-writing-gif-13971147">Yes Signature GIF</a>from <a href="https://tenor.com/search/yes-gifs">Yes GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <p align="center">
+    <a href="https://github.com/whomiri"><img src="https://visitor-badge.laobi.icu/badge?page_id=whomiri" alt="Ziyaret"></a>
+  </p>
 
-  </a>
-  <a href="https://github.com/whomiri?tab=stars">
-    <img src="https://img.shields.io/github/stars/whomiri?color=ff69b4&label=Stargazers&style=plastic">
+  <details align="center">
+    <summary style="font-weight: bold; font-size: 18px">
+      <b>Bilgili olduğum qisimlər</b>
+      <i>(genişləndirmək üçün basın!</i>
+    </summary>
 
-  </a>
-  <a href="https://github.com/whomiri?tab=followers">
-    <img src="https://img.shields.io/github/followers/whomiri?color=ff69b4&label=Followers&style=plastic">
+  ![Python](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python&logoColor=EF7F1A&color=2B2A29)
+  ![Pandas](https://img.shields.io/badge/pandas-cD1?style=for-the-badge&logo=pandas&logoColor=EF7F1A&color=2B2A29)
+  ![Pyrogram](https://img.shields.io/badge/pyrogram-cD1?style=for-the-badge&logo=python&logoColor=EF7F1A&color=2B2A29)
+  ![HTML5](https://img.shields.io/badge/html5-cD1?style=for-the-badge&logo=html5&logoColor=EF7F1A&color=2B2A29)
+  ![CSS3](https://img.shields.io/badge/css3-cD1?style=for-the-badge&logo=css3&logoColor=EF7F1A&color=2B2A29)
+  ![JavaScript](https://img.shields.io/badge/javascript-cD1?style=for-the-badge&logo=javascript&logoColor=EF7F1A&color=2B2A29)
 
-  </a>
-</p>
+  <h2 style="color:#c1c1c1;text-shadow: 3px 4px 4px rgba(0, 250, 70, 0.7)"> İletişim: </h2>
 
-<details>
-  <summary><b>Languages I Know 💻</b></summary><br/>
+  <div align="center">
+    <a target="_blank" href="https://t.me/whomiri">               <img alt="Əlaqə(Contact) | Telegram" src="https://img.shields.io/badge/telegram-2B2A29.svg?style=for-the-badge&logo=telegram&logoColor=EF7F1A"></a>
+  </div>
 
-| Language   | Degree   |
-| ---        | ---      |
-| Javascript | SSS      |
-| Python     | SSS (AI) |
-| HTML       | A        |
-| Typescript | B        |
-| CSS        | B        |
+  ---
 
-##
-#### Degree Table 
+  <details align="center">
+    <summary style="font-weight: bold; font-size: 18px">
+      <b>GitHub Statistikası</b>
+      <i>(genişləndirık üçün basın!)</i>
+    </summary>
 
-| Degree | Point |
-| ---    | ---   |
-| SSS    | +95   |
-| SS     | +90   |
-| S      | +85   |
-| A+     | +80   |
-| A      | +70   |
-| B+     | +60   |
-| B      | +50   |
-| C      | +40   |
-| D      | +30   |
-| F      | <30   |
-</details>
+  ![Github Statistikam](https://github-readme-stats.vercel.app/api?username=whomiri&show_icons=true&bg_color=2B2A29&icon_color=EF7F1A&text_color=FFF&title_color=EF7F1A)
+  ![Ən çox istifadə etdiyim dillər](https://github-readme-stats.vercel.app/api/top-langs/?username=whomiri&layout=compact&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A)
 
-<details>
-  <summary><b>Languages ​​I'm Learning 🙇🏻</b></summary><br/>
-
-| Language   | Status   |
-| ---        | ---      |
-| Emacs Lisps| ✅       |
-| Java       | ✅       |
-| Make       | ✅       |
-| Assembly   | ✅       |
-| MediaWiki  | ✅       |
-</details>
-
-<details>
-  <summary><b>Contributed Repositorys 📚</b></summary><br/>
-
-| Repository     | Link     |
-| ---            | ---      |
-| CoffeeHouse-JavaScript-API-Wrapper | https://github.com/intellivoid/CoffeeHouse-JavaScript-API-Wrapper       |
-| node-fluent-ffmpeg | https://github.com/fluent-ffmpeg/node-fluent-ffmpeg |
-| google-this | https://github.com/LuanRT/google-this |
-
-</details>
-
-##
-
-- 🔭 I’m currently working on [WhatsAsena](https://github.com/)
-
-- 💫 **I am backend developer.. 🌆**
-
-##
-
-<h3 align="left">Contact Me:</h3>
-<p align="left">
-<a href="https://twitter.com/whomiri" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png" alt="kyrie_baran  " height="54" width="54" /></a>
-<a href="https://instagram.com/whomiri" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" alt="whomiri" height="54" width="54" /></a>
-<a href="mailto:whomirimv@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" alt="whomiri" height="50" width="60" /></a>
-
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phaticusthiccy&show_icons=true&layout=compact&theme=nightowl" alt="whomiri" /></p>
-
-![Thiccy](https://github.com/phaticusthiccy/Statics/blob/master/generated/languages.svg)
-
-![Thiccy](https://github.com/phaticusthiccy/Statics/blob/master/generated/overview.svg)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whomiri&theme=nightowl" alt="whomiri" /></p>
-</details>
-
-##
-
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=whomiri)
-
-</details>
-
-##
-
-<details>
-    <summary>&#127942 <b>GitHub Activity (Public Data)</b></summary><br/>
-
-##
-
-<details>
-    <summary><b>About Me ☄️</b></summary><br/>
-Hi, my name is Miri
-
-I am Developer. My real thing to do creating artificial brains, neural tools. 
-
-</details>
+  </details>
+</samp>
