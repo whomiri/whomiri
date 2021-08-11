@@ -2,13 +2,10 @@
 <samp>
   <h1 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Salam mən Miri 🕊</h1>
 
-  <p align="center">
-    <a href="https://github.com/whomiri"><img src="https://visitor-badge.laobi.icu/badge?page_id=whomiri" alt="Ziyaret"></a>
-  </p>
 
   <details align="center">
     <summary style="font-weight: bold; font-size: 18px">
-      <b>Bilgili olduğum qisimlər</b>
+      <b>Əlaqədar qisimlər</b>
       <i>(genişləndirmək üçün basın!</i>
     </summary>
 
