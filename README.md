@@ -1,3 +1,5 @@
+![AtaTurk](https://tenor.com/view/yes-signature-cursive-writing-gif-13971147)
+
 
 <samp>
   <h1 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Salam mən Miri 🕊</h1>
@@ -16,7 +18,7 @@
   ![CSS3](https://img.shields.io/badge/css3-cD1?style=for-the-badge&logo=css3&logoColor=EF7F1A&color=2B2A29)
   ![JavaScript](https://img.shields.io/badge/javascript-cD1?style=for-the-badge&logo=javascript&logoColor=EF7F1A&color=2B2A29)
 
-  <h2 style="color:#c1c1c1;text-shadow: 3px 4px 4px rgba(0, 250, 70, 0.7)"> İletişim: </h2>
+  <h2 style="color:#c1c1c1;text-shadow: 3px 4px 4px rgba(0, 250, 70, 0.7)"> Əlaqə: </h2>
 
   <div align="center">
     <a target="_blank" href="https://t.me/whomiri">               <img alt="Əlaqə(Contact) | Telegram" src="https://img.shields.io/badge/telegram-2B2A29.svg?style=for-the-badge&logo=telegram&logoColor=EF7F1A"></a>
