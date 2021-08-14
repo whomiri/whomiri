@@ -1,9 +1,6 @@
 <p align="center">
   <img src="L5C39uTJVb8.gif" alt="" />
 </p>
-<p align="center">
-  <a href="https://pjc0247.github.io/gif-for-readme/">HERE</a>
-</p>
 
 
 
