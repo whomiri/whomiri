@@ -4,16 +4,6 @@
 ##
 
 
-  </a>
-  <a href="https://github.com/whomiri?tab=stars">
-    <img src="https://img.shields.io/github/stars/whomiri?color=ff69b4&label=Stargazers&style=plastic">
-
-  </a>
-  <a href="https://github.com/whomiri?tab=followers">
-    <img src="https://img.shields.io/github/followers/phaticusthiccy?color=ff69b4&label=Followers&style=plastic">
-
-  </a>
-</p>
 
 <details>
   <summary><b>Languages I Know 💻</b></summary><br/>
