@@ -1,4 +1,4 @@
-<h2 align="center">Hi! I'm <br>Miri</h1>
+<h2 align="center">Hi! I'm Miri</h1>
 <h4 align="center">He/Him - BLM Resources</h3>
 
 ##
@@ -37,7 +37,19 @@
 | D      | +30   |
 | F      | <30   |
 </details>
+<details>
+  <summary>Stats</summary>
 
+<table align="center">
+    <tr>
+        <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=whomiri&show_icons=true&theme=radical" /></td>
+    </tr>
+    <tr>
+        <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whomiri&theme=radical&layout=compact" /></td>
+    </tr>
+</table>
+
+</details>
 <details>
   <summary><b>Languages ​​I'm Learning 🙇</b></summary><br/>
 
