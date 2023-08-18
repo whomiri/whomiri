@@ -112,5 +112,5 @@ I am an Fullstack Developer. I am a student of INF. TECH. (IT).
 
 </details>
 <div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31ujvz3dbbvkskzclqjr5jctdwma&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31ujvz3dbbvkskzclqjr5jctdwma&redirect=true" />
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31ujvz3dbbvkskzclqjr5jctdwma&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" />
   </div>
