@@ -1,4 +1,4 @@
-<h2 align="center">Hi! I'm Miri</h1>
+<h2 align="center">Hi! I'm Miri</h3>
 <h4 align="center">He/Him - BLM Resources</h3>
 
 ##
