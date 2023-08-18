@@ -6,7 +6,7 @@
 
 
 <details>
-  <summary><b>Languages I Know 💻</b></summary><br/>
+  <summary><b>Languages I Know</b></summary><br/>
 
 | Language   | Degree   |
 | ---        | ---      |
@@ -30,7 +30,7 @@
 
 </details>
 <details>
-  <summary><b>Languages ​​I'm Learning 🙇</b></summary><br/>
+  <summary><b>Languages ​​I'm Learning...</b></summary><br/>
 
 | Language   | Status   |
 | ---        | ---      |
