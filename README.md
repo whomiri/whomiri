@@ -6,7 +6,7 @@
 
 
 <details>
-  <summary><b>Languages I Know</b></summary><br/>
+  <summary><b>I Know</b></summary><br/>
 
 | Language   | Degree   |
 | ---        | ---      |
@@ -30,7 +30,7 @@
 
 </details>
 <details>
-  <summary><b>Languages ​​I'm Learning...</b></summary><br/>
+  <summary><b>​​I'm Learning...</b></summary><br/>
 
 | Language   | Status   |
 | ---        | ---      |
@@ -42,19 +42,6 @@
 | TypeScript | ♻        |
 | C++        | ♻        |
 | SWIFT      | ♻        |
-</details>
-
-<details>
-  <summary><b>Contributed Repositories 📚</b></summary><br/>
-
-| Repository     | Link     |
-| ---            | ---      |
-| cyber-userbot-telegram | https://github.com/FaridDadashzade/CyberUserBot |
-| cyber-userbot-whatsapp | https://github.com/FaridDadashzade/WhatsCyber   |
-| asena-userbot-telegram | https://github.com/yusufusta/asenauserbot       |
-| asena-userbot-whatsapp | https://github.com/yusufusta/whatsasena         |
-| telethon-telegram      | https://github.com/telethon/telethon            | 
-
 </details>
 
 ##
