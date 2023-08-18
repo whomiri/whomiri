@@ -54,7 +54,7 @@
 
 </p>
 
-### Pull Up My [Blog!](https://t.me/whomiri)
+### My [Blog!](https://t.me/whomiri)
 <p align="left">
 <a href="https://t.me/whomiri" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-png/telegram-chat-message-mobile-send-file-smartphone-talk-16.png" alt="whomiri blog  " height="54" width="54" /></a>
 
