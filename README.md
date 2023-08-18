@@ -94,7 +94,7 @@
 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whomiri&show_icons=true&layout=compact&theme=nightowl" alt="whomiri" /></p>
+
 
 
 ##
