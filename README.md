@@ -21,25 +21,6 @@
 | REACT N.   | C   (40+)|
 | LARAVEL    | C   (45+)|
 | SWIFT      | C   (40+)|
-
-##
-#### Degree Table 
-
-| Degree | Point |
-| ---    | ---   |
-| AAA    | +95   |
-| AA     | +90   |
-| A      | +85   |
-| A+     | +80   |
-| BB     | +60   |
-| B      | +50   |
-| C      | +40   |
-| D      | +30   |
-| F      | <30   |
-</details>
-<details>
-  <summary>Stats</summary>
-
 <table align="center">
     <tr>
         <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=whomiri&show_icons=true&theme=radical" /></td>
