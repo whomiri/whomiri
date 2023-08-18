@@ -21,6 +21,7 @@
 | REACT N.   | C   (40+)|
 | LARAVEL    | C   (45+)|
 | SWIFT      | C   (40+)|
+
 <table align="center">
     <tr>
         <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=whomiri&show_icons=true&theme=radical" /></td>
